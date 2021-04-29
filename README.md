@@ -35,16 +35,3 @@ After focusing on many minor details finally I made <a href="https://github.com/
 
 * Weather Conditions: <a href="https://openweathermap.org/weather-conditions#Weather-Condition-Codes-2">openweathermap.org/weather-conditions#Weather-Condition-Codes-2</a>
 <br/>
-
-# 📊 Latest PageSpeed Insights Score
-<p align="center">
-<img src="assets/screenshots/result_mobile.png" style="padding:5%; border-radius:20px"/>
-<img src="assets/screenshots/result_desktop.png" style="padding:5%; border-radius:20px" />
-</p>
-<br/>
-
-# 📌 Latest Google Lighthouse audit
-<p align="center">
-<img src="assets/screenshots/lighthuse.png" style="padding:5%; border-radius:20px"/>
-</p>
-<br/>
