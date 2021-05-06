@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">  
+    <link rel="icon"  href="./favicon.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="https://thisdotweather.netlify.app/logo192.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Primary Meta Tags -->
+    <title>SkyLark</title>
+    <meta name="title" content="⛅ SkyLark">
+    <meta name="meta-title" content="⛅ SkyLark">
+    <meta name="description" content="Watch the weather in your city and received an hourly forecast, including data of wind, cloudiness, pressure, humidity, time of sunrise and sunset, geo coords on SkyLark PWA">
+    <meta name="keywords" content="this dot weather netlify app, this dot weather, SkyLark, weather, world, Openstreetmap, forecast, Openweather, current, location, geolocation, react, react-app, data, api, current weather">
+    <meta name="language" content="English">
+    <meta name="robots" content= "index, follow">
+    <meta name="revisit-after" content="10 days">
+    <meta name="author" content="Jaideep25">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://thisdotweather.netlify.app/">
+    <meta property="og:title" content="⛅ SkyLark">
+    <meta property="og:description" content="Watch the weather in your city and received an hourly forecast, including data of wind, cloudiness, pressure, humidity, time of sunrise and sunset, geo coords on SkyLark PWA">
+    <meta property="og:image" content="https://thisdotweather.netlify.app/template.png">
+    <meta property="og:site_name" content="SkyLark">
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://thisdotweather.netlify.app/">
+    <meta property="twitter:title" content="⛅ SkyLark">
+    <meta property="twitter:description" content="Watch the weather in your city and received an hourly forecast, including data of wind, cloudiness, pressure, humidity, time of sunrise and sunset, geo coords on SkyLark PWA">
+    <meta property="twitter:image" content="https://thisdotweather.netlify.app/template.png">
+
+    <!-- Extra -->
+    <meta name="full-screen" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="SkyLark">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://thisdotweather.netlify.app/logo72.png" />
+    <link rel="apple-touch-icon" sizes="96x96" href="https://thisdotweather.netlify.app/logo96.png" />
+    <link rel="apple-touch-icon" sizes="128x128" href="https://thisdotweather.netlify.app/logo128.png" />
+    <link rel="apple-touch-icon" sizes="384x384" href="https://thisdotweather.netlify.app/logo384.png" />
+    <link rel="apple-touch-icon" href="https://thisdotweather.netlify.app/logo192.png" />
+
+    <link rel="manifest" href="./manifest.json" />
+    
+    
+  </head>
+  
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <script>
+      if('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('./serviceworker.js')
+          .then((reg) => console.log('🎯 Success : ', reg.scope))
+          .catch((err) => console.log('🔔 Failure : ', err));
+        })
+      }
+    </script>
+  </body>
+</html>
