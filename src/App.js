@@ -8,7 +8,7 @@ import else_icon from "./assets/icons/else_icon.gif"
 import icon from './icon'
 
 const api = {
-  key: "YOUR_API_KEY",
+  key: "cfe155f10578a458d208dafbd8bec44d",
   base: "https://api.openweathermap.org/data/2.5/"
 }
 
