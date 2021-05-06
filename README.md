@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # ⛅ SkyLark
 
-💡 <b style="letter-spacing:1.6px">Website : </b><a href="https://thisdotweather.netlify.app/">SkyLark</a>
+💡 <b style="letter-spacing:1.6px">Website : </b><a href="https://sky-lark-jaideep.vercel.app/">SkyLark</a>
 <br/>
 
     Watch the weather in your city and received hourly forecast, including data of wind, cloudiness, 

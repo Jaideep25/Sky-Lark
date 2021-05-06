@@ -305,7 +305,7 @@ class App extends Component {
           <div className="row">
             <div className="col-12 col-md-7 col-xl-8 col left">
               <div className="heading-title">
-                <h1 className="title" ><a className="title-link" href="/">SkyLark<br/></a></h1>
+                <h1 className="title" ><a className="title-link" href="/">Click to see the weather in your location<br/></a></h1>
                 <div variant="primary" onClick={()=> this.setState({addModalShow : true})} >
                   <MdInfoOutline className="app-info-icon" title="About SkyLark" />
                 </div>
