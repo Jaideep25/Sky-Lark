@@ -4,13 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <br/>
 <br/>
 
-![GitHub watchers](https://img.shields.io/github/watchers/debrajhyper/SkyLark)
-![GitHub repo size](https://img.shields.io/github/repo-size/debrajhyper/SkyLark?color=7eca9c)
+![GitHub watchers](https://img.shields.io/github/watchers/jaideep25/SkyLark)
+![GitHub repo size](https://img.shields.io/github/repo-size/jaideep25/SkyLark?color=7eca9c)
 ![Code Quality Score](https://www.code-inspector.com/project/21998/score/svg)
 ![npm](https://img.shields.io/npm/v/npm?color=e84545&logo=npm)
 ![node-current](https://img.shields.io/node/v/package.js?logo=node.js&logoColor=white)
-![GitHub last commit](https://img.shields.io/github/last-commit/debrajhyper/SkyLark?color=ffc93c)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8c90ee80-b103-4025-8a23-41c3d2cba71e/deploy-status)](https://app.netlify.com/sites/thisdotweather/deploys)
+![GitHub last commit](https://img.shields.io/github/last-commit/jaideep25/SkyLark?color=ffc93c)
 <br/>
 
 # ⛅ SkyLark
