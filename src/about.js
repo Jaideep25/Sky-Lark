@@ -16,7 +16,7 @@ export default function about(props) {
                             <a href="https://github.com/Jaideep25" className="icon" target="blank"><FaGithub className="social-icon"/></a>
                         </div>
                         <br/>
-                        <h6>Copyright &copy; 2021 | <a href="https://www.github.com/Jaideep25">Jaideep25</a></h6>
+                        <h6>Copyright &copy; 2022 | <a href="https://www.github.com/Jaideep25">Jaideep25</a></h6>
                     </Modal.Body>
                 </div>
             </Modal>
